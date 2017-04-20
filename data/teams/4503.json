@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 4503, 'name': 'El Dorado High School', 'region': 'AR', 'website': None, 'key': 'frc4503', 'location': 'El Dorado, AR, USA', 'locality': 'El Dorado', 'country_name': 'USA', 'nickname': 'Wildcats', 'rookie_year': None}
+{'motto': None, 'locality': 'El Dorado', 'key': 'frc4503', 'rookie_year': None, 'nickname': 'Wildcats', 'country_name': 'USA', 'location': 'El Dorado, AR, USA', 'team_number': 4503, 'region': 'AR', 'name': 'El Dorado High School', 'website': None}

@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 3952, 'name': 'Troy High', 'region': 'California', 'website': 'http://troyfrc.heliohost.org', 'key': 'frc3952', 'location': 'Fullerton, California 92831, USA', 'locality': 'Fullerton', 'country_name': 'USA', 'nickname': 'DesTROYers', 'rookie_year': 2012}
+{'motto': None, 'locality': 'Fullerton', 'key': 'frc3952', 'rookie_year': 2012, 'nickname': 'DesTROYers', 'country_name': 'USA', 'location': 'Fullerton, California 92831, USA', 'team_number': 3952, 'region': 'California', 'name': 'Troy High', 'website': 'http://troyfrc.heliohost.org'}

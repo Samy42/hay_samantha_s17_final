@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 617, 'name': 'Highland Springs High', 'region': 'Virginia', 'website': 'http://www.team617.com', 'key': 'frc617', 'location': 'Henrico, Virginia 23075, USA', 'locality': 'Henrico', 'country_name': 'USA', 'nickname': 'Enginerds', 'rookie_year': 2001}
+{'motto': None, 'locality': 'Henrico', 'key': 'frc617', 'rookie_year': 2001, 'nickname': 'Enginerds', 'country_name': 'USA', 'location': 'Henrico, Virginia 23075, USA', 'team_number': 617, 'region': 'Virginia', 'name': 'Highland Springs High', 'website': 'http://www.team617.com'}

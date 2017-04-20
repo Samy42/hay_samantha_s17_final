@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 4078, 'name': 'La Puente High', 'region': 'California', 'website': 'http://www.firstinspires.org/', 'key': 'frc4078', 'location': 'La Puente, California 91744, USA', 'locality': 'La Puente', 'country_name': 'USA', 'nickname': 'Warriors', 'rookie_year': 2012}
+{'motto': None, 'locality': 'La Puente', 'key': 'frc4078', 'rookie_year': 2012, 'nickname': 'Warriors', 'country_name': 'USA', 'location': 'La Puente, California 91744, USA', 'team_number': 4078, 'region': 'California', 'name': 'La Puente High', 'website': 'http://www.firstinspires.org/'}

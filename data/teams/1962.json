@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 1962, 'name': 'Smith Family Foundation & East Boston High School', 'region': 'MA', 'website': None, 'key': 'frc1962', 'location': 'Boston, MA, USA', 'locality': 'Boston', 'country_name': 'USA', 'nickname': 'Zilch', 'rookie_year': 2006}
+{'motto': None, 'locality': 'Boston', 'key': 'frc1962', 'rookie_year': 2006, 'nickname': 'Zilch', 'country_name': 'USA', 'location': 'Boston, MA, USA', 'team_number': 1962, 'region': 'MA', 'name': 'Smith Family Foundation & East Boston High School', 'website': None}

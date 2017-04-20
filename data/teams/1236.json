@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 1236, 'name': 'Galileo Magnet High School', 'region': 'VA', 'website': 'http://web.dps.k12.va.us/galileo', 'key': 'frc1236', 'location': 'Danville, VA, USA', 'locality': 'Danville', 'country_name': 'USA', 'nickname': 'Phoenix Rising', 'rookie_year': 2003}
+{'motto': None, 'locality': 'Danville', 'key': 'frc1236', 'rookie_year': 2003, 'nickname': 'Phoenix Rising', 'country_name': 'USA', 'location': 'Danville, VA, USA', 'team_number': 1236, 'region': 'VA', 'name': 'Galileo Magnet High School', 'website': 'http://web.dps.k12.va.us/galileo'}

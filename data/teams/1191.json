@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 1191, 'name': 'Keystone Oaks High School', 'region': 'PA', 'website': 'http://www.kosd.org/FIRST', 'key': 'frc1191', 'location': 'Pittsburgh, PA, USA', 'locality': 'Pittsburgh', 'country_name': 'USA', 'nickname': 'Eagles', 'rookie_year': 2003}
+{'motto': None, 'locality': 'Pittsburgh', 'key': 'frc1191', 'rookie_year': 2003, 'nickname': 'Eagles', 'country_name': 'USA', 'location': 'Pittsburgh, PA, USA', 'team_number': 1191, 'region': 'PA', 'name': 'Keystone Oaks High School', 'website': 'http://www.kosd.org/FIRST'}

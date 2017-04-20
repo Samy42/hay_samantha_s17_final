@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 2593, 'name': 'Peabody Veterans Memorial High School', 'region': 'MA', 'website': 'http://www.vitalinequality.com', 'key': 'frc2593', 'location': 'Peabody, MA, USA', 'locality': 'Peabody', 'country_name': 'USA', 'nickname': 'Brobot', 'rookie_year': 2008}
+{'motto': None, 'locality': 'Peabody', 'key': 'frc2593', 'rookie_year': 2008, 'nickname': 'Brobot', 'country_name': 'USA', 'location': 'Peabody, MA, USA', 'team_number': 2593, 'region': 'MA', 'name': 'Peabody Veterans Memorial High School', 'website': 'http://www.vitalinequality.com'}

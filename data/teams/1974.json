@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 1974, 'name': 'Boeing & Weber Tech', 'region': 'CA', 'website': 'http://www.weberinstitute.org', 'key': 'frc1974', 'location': 'Stockton, CA, USA', 'locality': 'Stockton', 'country_name': 'USA', 'nickname': 'Weber Tech', 'rookie_year': 2006}
+{'motto': None, 'locality': 'Stockton', 'key': 'frc1974', 'rookie_year': 2006, 'nickname': 'Weber Tech', 'country_name': 'USA', 'location': 'Stockton, CA, USA', 'team_number': 1974, 'region': 'CA', 'name': 'Boeing & Weber Tech', 'website': 'http://www.weberinstitute.org'}

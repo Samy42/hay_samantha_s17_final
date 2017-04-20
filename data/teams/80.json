@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 80, 'name': 'DeVry University & Cortez High School', 'region': 'AZ', 'website': 'http://robocolt.jt.org', 'key': 'frc80', 'location': 'Phoenix, AZ, USA', 'locality': 'Phoenix', 'country_name': 'USA', 'nickname': 'Robocolt', 'rookie_year': 1994}
+{'motto': None, 'locality': 'Phoenix', 'key': 'frc80', 'rookie_year': 1994, 'nickname': 'Robocolt', 'country_name': 'USA', 'location': 'Phoenix, AZ, USA', 'team_number': 80, 'region': 'AZ', 'name': 'DeVry University & Cortez High School', 'website': 'http://robocolt.jt.org'}

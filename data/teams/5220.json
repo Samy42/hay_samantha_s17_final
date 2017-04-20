@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 5220, 'name': 'John Glenn High School', 'region': 'MI', 'website': None, 'key': 'frc5220', 'location': 'Westland, MI, USA', 'locality': 'Westland', 'country_name': 'USA', 'nickname': 'Rockets', 'rookie_year': 2014}
+{'motto': None, 'locality': 'Westland', 'key': 'frc5220', 'rookie_year': 2014, 'nickname': 'Rockets', 'country_name': 'USA', 'location': 'Westland, MI, USA', 'team_number': 5220, 'region': 'MI', 'name': 'John Glenn High School', 'website': None}

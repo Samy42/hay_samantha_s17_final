@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 6092, 'name': 'Quincy High School', 'region': 'Michigan', 'website': 'http://www.firstinspires.org/', 'key': 'frc6092', 'location': 'Quincy, Michigan 49082, USA', 'locality': 'Quincy', 'country_name': 'USA', 'nickname': 'Q-Bots', 'rookie_year': 2016}
+{'motto': None, 'locality': 'Quincy', 'key': 'frc6092', 'rookie_year': 2016, 'nickname': 'Q-Bots', 'country_name': 'USA', 'location': 'Quincy, Michigan 49082, USA', 'team_number': 6092, 'region': 'Michigan', 'name': 'Quincy High School', 'website': 'http://www.firstinspires.org/'}

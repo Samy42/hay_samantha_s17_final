@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 331, 'name': 'Consolidated Edison & Washington Irving HS', 'region': 'NY', 'website': 'http://www.team331.com', 'key': 'frc331', 'location': 'New York, NY, USA', 'locality': 'New York', 'country_name': 'USA', 'nickname': 'The Bulldogs', 'rookie_year': 1999}
+{'motto': None, 'locality': 'New York', 'key': 'frc331', 'rookie_year': 1999, 'nickname': 'The Bulldogs', 'country_name': 'USA', 'location': 'New York, NY, USA', 'team_number': 331, 'region': 'NY', 'name': 'Consolidated Edison & Washington Irving HS', 'website': 'http://www.team331.com'}

@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 4652, 'name': 'Goldendale High School', 'region': 'WA', 'website': None, 'key': 'frc4652', 'location': 'Goldendale, WA, USA', 'locality': 'Goldendale', 'country_name': 'USA', 'nickname': 'WolfTech', 'rookie_year': 2013}
+{'motto': None, 'locality': 'Goldendale', 'key': 'frc4652', 'rookie_year': 2013, 'nickname': 'WolfTech', 'country_name': 'USA', 'location': 'Goldendale, WA, USA', 'team_number': 4652, 'region': 'WA', 'name': 'Goldendale High School', 'website': None}

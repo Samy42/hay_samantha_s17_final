@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 2021, 'name': 'Fredericksburg Academy', 'region': 'VA', 'website': 'http://fredericksburgacademy.org', 'key': 'frc2021', 'location': 'Fredericksburg, VA, USA', 'locality': 'Fredericksburg', 'country_name': 'USA', 'nickname': 'F.A.R.', 'rookie_year': 2007}
+{'motto': None, 'locality': 'Fredericksburg', 'key': 'frc2021', 'rookie_year': 2007, 'nickname': 'F.A.R.', 'country_name': 'USA', 'location': 'Fredericksburg, VA, USA', 'team_number': 2021, 'region': 'VA', 'name': 'Fredericksburg Academy', 'website': 'http://fredericksburgacademy.org'}

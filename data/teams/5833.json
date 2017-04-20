@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 5833, 'name': 'YMCA', 'region': 'Guangdong', 'website': None, 'key': 'frc5833', 'location': 'Shenzhen, Guangdong 518000, China', 'locality': 'Shenzhen', 'country_name': 'China', 'nickname': 'Team-5833', 'rookie_year': 2016}
+{'motto': None, 'locality': 'Shenzhen', 'key': 'frc5833', 'rookie_year': 2016, 'nickname': 'Team-5833', 'country_name': 'China', 'location': 'Shenzhen, Guangdong 518000, China', 'team_number': 5833, 'region': 'Guangdong', 'name': 'YMCA', 'website': None}

@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 6221, 'name': 'Miami High School', 'region': 'Arizona', 'website': 'http://www.firstinspires.org/', 'key': 'frc6221', 'location': 'Miami, Arizona 85539, USA', 'locality': 'Miami', 'country_name': 'USA', 'nickname': 'Vandals', 'rookie_year': 2016}
+{'motto': None, 'locality': 'Miami', 'key': 'frc6221', 'rookie_year': 2016, 'nickname': 'Vandals', 'country_name': 'USA', 'location': 'Miami, Arizona 85539, USA', 'team_number': 6221, 'region': 'Arizona', 'name': 'Miami High School', 'website': 'http://www.firstinspires.org/'}

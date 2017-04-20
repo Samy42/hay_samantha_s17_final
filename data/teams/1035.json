@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 1035, 'name': 'Comau Pico & Washington High School', 'region': 'IL', 'website': 'http://www.comaupico.com', 'key': 'frc1035', 'location': 'Chicago, IL, USA', 'locality': 'Chicago', 'country_name': 'USA', 'nickname': 'T12', 'rookie_year': 2003}
+{'motto': None, 'locality': 'Chicago', 'key': 'frc1035', 'rookie_year': 2003, 'nickname': 'T12', 'country_name': 'USA', 'location': 'Chicago, IL, USA', 'team_number': 1035, 'region': 'IL', 'name': 'Comau Pico & Washington High School', 'website': 'http://www.comaupico.com'}

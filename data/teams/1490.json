@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 1490, 'name': 'Scarborough High School', 'region': 'TX', 'website': None, 'key': 'frc1490', 'location': 'Houston, TX, USA', 'locality': 'Houston', 'country_name': 'USA', 'nickname': "Sparta's Rockets", 'rookie_year': 2004}
+{'motto': None, 'locality': 'Houston', 'key': 'frc1490', 'rookie_year': 2004, 'nickname': "Sparta's Rockets", 'country_name': 'USA', 'location': 'Houston, TX, USA', 'team_number': 1490, 'region': 'TX', 'name': 'Scarborough High School', 'website': None}

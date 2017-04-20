@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 6665, 'name': 'NASA&Santa Catalina School', 'region': 'California', 'website': None, 'key': 'frc6665', 'location': 'Monterey, California 93940, USA', 'locality': 'Monterey', 'country_name': 'USA', 'nickname': 'Nuns and Bolts', 'rookie_year': 2017}
+{'motto': None, 'locality': 'Monterey', 'key': 'frc6665', 'rookie_year': 2017, 'nickname': 'Nuns and Bolts', 'country_name': 'USA', 'location': 'Monterey, California 93940, USA', 'team_number': 6665, 'region': 'California', 'name': 'NASA & Santa Catalina School', 'website': None}

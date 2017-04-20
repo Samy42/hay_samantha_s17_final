@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 5539, 'name': 'Desert View High School', 'region': 'Arizona', 'website': 'http://www.firstinspires.org/', 'key': 'frc5539', 'location': 'Tucson, Arizona 85706, USA', 'locality': 'Tucson', 'country_name': 'USA', 'nickname': 'DVHS Cyborgs', 'rookie_year': 2015}
+{'motto': None, 'locality': 'Tucson', 'key': 'frc5539', 'rookie_year': 2015, 'nickname': 'DVHS Cyborgs', 'country_name': 'USA', 'location': 'Tucson, Arizona 85706, USA', 'team_number': 5539, 'region': 'Arizona', 'name': 'Desert View High School', 'website': 'http://www.firstinspires.org/'}

@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 1705, 'name': 'North High School', 'region': 'CO', 'website': None, 'key': 'frc1705', 'location': 'Denver, CO, USA', 'locality': 'Denver', 'country_name': 'USA', 'nickname': 'Vikings', 'rookie_year': 2005}
+{'motto': None, 'locality': 'Denver', 'key': 'frc1705', 'rookie_year': 2005, 'nickname': 'Vikings', 'country_name': 'USA', 'location': 'Denver, CO, USA', 'team_number': 1705, 'region': 'CO', 'name': 'North High School', 'website': None}

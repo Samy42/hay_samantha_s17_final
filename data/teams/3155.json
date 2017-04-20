@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 3155, 'name': 'Southwest Career Technical Academy', 'region': 'NV', 'website': 'http://swcta.net/robotics', 'key': 'frc3155', 'location': 'Las Vegas, NV, USA', 'locality': 'Las Vegas', 'country_name': 'USA', 'nickname': 'Globots', 'rookie_year': 2010}
+{'motto': None, 'locality': 'Las Vegas', 'key': 'frc3155', 'rookie_year': 2010, 'nickname': 'Globots', 'country_name': 'USA', 'location': 'Las Vegas, NV, USA', 'team_number': 3155, 'region': 'NV', 'name': 'Southwest Career Technical Academy', 'website': 'http://swcta.net/robotics'}

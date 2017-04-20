@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 3622, 'name': 'a / 1 / b / c', 'region': 'FL', 'website': 'http://%20', 'key': 'frc3622', 'location': 'Boca Raton, FL, USA', 'locality': 'Boca Raton', 'country_name': 'USA', 'nickname': 'r', 'rookie_year': 2011}
+{'motto': None, 'locality': 'Boca Raton', 'key': 'frc3622', 'rookie_year': 2011, 'nickname': 'r', 'country_name': 'USA', 'location': 'Boca Raton, FL, USA', 'team_number': 3622, 'region': 'FL', 'name': 'a / 1 / b / c', 'website': 'http://%20'}

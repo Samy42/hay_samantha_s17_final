@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 1105, 'name': 'NASA/USC MESA & Washington Prep HS', 'region': 'CA', 'website': None, 'key': 'frc1105', 'location': 'Los Angeles, CA, USA', 'locality': 'Los Angeles', 'country_name': 'USA', 'nickname': 'The Prep', 'rookie_year': 2003}
+{'motto': None, 'locality': 'Los Angeles', 'key': 'frc1105', 'rookie_year': 2003, 'nickname': 'The Prep', 'country_name': 'USA', 'location': 'Los Angeles, CA, USA', 'team_number': 1105, 'region': 'CA', 'name': 'NASA/USC MESA & Washington Prep HS', 'website': None}

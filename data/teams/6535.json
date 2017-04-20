@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 6535, 'name': 'Edison High', 'region': 'California', 'website': None, 'key': 'frc6535', 'location': 'Huntington Beach, California 92646, USA', 'locality': 'Huntington Beach', 'country_name': 'USA', 'nickname': 'Edison Chargers', 'rookie_year': 2017}
+{'motto': None, 'locality': 'Huntington Beach', 'key': 'frc6535', 'rookie_year': 2017, 'nickname': 'Edison Chargers', 'country_name': 'USA', 'location': 'Huntington Beach, California 92646, USA', 'team_number': 6535, 'region': 'California', 'name': 'Edison High', 'website': None}

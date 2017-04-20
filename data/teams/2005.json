@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 2005, 'name': 'Ewing Marion Kauffman Foundation & Anderson High School', 'region': 'MO', 'website': None, 'key': 'frc2005', 'location': 'Kansas City, MO, USA', 'locality': 'Kansas City', 'country_name': 'USA', 'nickname': 'Aerobotechs', 'rookie_year': 2007}
+{'motto': None, 'locality': 'Kansas City', 'key': 'frc2005', 'rookie_year': 2007, 'nickname': 'Aerobotechs', 'country_name': 'USA', 'location': 'Kansas City, MO, USA', 'team_number': 2005, 'region': 'MO', 'name': 'Ewing Marion Kauffman Foundation & Anderson High School', 'website': None}

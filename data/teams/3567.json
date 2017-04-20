@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 3567, 'name': 'United High School', 'region': 'PA', 'website': 'http://www.unitedsd.net/robotics', 'key': 'frc3567', 'location': 'Armagh, PA, USA', 'locality': 'Armagh', 'country_name': 'USA', 'nickname': 'The Aviators', 'rookie_year': 2011}
+{'motto': None, 'locality': 'Armagh', 'key': 'frc3567', 'rookie_year': 2011, 'nickname': 'The Aviators', 'country_name': 'USA', 'location': 'Armagh, PA, USA', 'team_number': 3567, 'region': 'PA', 'name': 'United High School', 'website': 'http://www.unitedsd.net/robotics'}

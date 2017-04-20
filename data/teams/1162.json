@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 1162, 'name': 'NASA White Sands Test Facility & Canutillo High / NMSU', 'region': 'TX', 'website': None, 'key': 'frc1162', 'location': 'Canutillo, TX, USA', 'locality': 'Canutillo', 'country_name': 'USA', 'nickname': '', 'rookie_year': 2003}
+{'motto': None, 'locality': 'Canutillo', 'key': 'frc1162', 'rookie_year': 2003, 'nickname': '', 'country_name': 'USA', 'location': 'Canutillo, TX, USA', 'team_number': 1162, 'region': 'TX', 'name': 'NASA White Sands Test Facility & Canutillo High / NMSU', 'website': None}

@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 4666, 'name': 'Woodcreek High School', 'region': 'CA', 'website': 'http://robowolves.com', 'key': 'frc4666', 'location': 'Roseville, CA, USA', 'locality': 'Roseville', 'country_name': 'USA', 'nickname': 'Robowolves', 'rookie_year': 2013}
+{'motto': None, 'locality': 'Roseville', 'key': 'frc4666', 'rookie_year': 2013, 'nickname': 'Robowolves', 'country_name': 'USA', 'location': 'Roseville, CA, USA', 'team_number': 4666, 'region': 'CA', 'name': 'Woodcreek High School', 'website': 'http://robowolves.com'}

@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 1453, 'name': 'Loyola High School', 'region': 'CA', 'website': None, 'key': 'frc1453', 'location': 'Los Angeles, CA, USA', 'locality': 'Los Angeles', 'country_name': 'USA', 'nickname': 'RoboCubs', 'rookie_year': 2004}
+{'motto': None, 'locality': 'Los Angeles', 'key': 'frc1453', 'rookie_year': 2004, 'nickname': 'RoboCubs', 'country_name': 'USA', 'location': 'Los Angeles, CA, USA', 'team_number': 1453, 'region': 'CA', 'name': 'Loyola High School', 'website': None}

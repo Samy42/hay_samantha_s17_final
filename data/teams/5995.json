@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 5995, 'name': 'Rancho Mirage High School', 'region': 'CA', 'website': None, 'key': 'frc5995', 'location': 'Rancho Mirage, CA, USA', 'locality': 'Rancho Mirage', 'country_name': 'USA', 'nickname': 'Servo Serpents', 'rookie_year': 2016}
+{'motto': None, 'locality': 'Rancho Mirage', 'key': 'frc5995', 'rookie_year': 2016, 'nickname': 'Servo Serpents', 'country_name': 'USA', 'location': 'Rancho Mirage, CA, USA', 'team_number': 5995, 'region': 'CA', 'name': 'Rancho Mirage High School', 'website': None}

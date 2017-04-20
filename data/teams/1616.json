@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 1616, 'name': 'New Jersey-New York Port Authority & Weequahic High School', 'region': 'NJ', 'website': None, 'key': 'frc1616', 'location': 'Newark, NJ, USA', 'locality': 'Newark', 'country_name': 'USA', 'nickname': 'weequahic indians', 'rookie_year': 2005}
+{'motto': None, 'locality': 'Newark', 'key': 'frc1616', 'rookie_year': 2005, 'nickname': 'weequahic indians', 'country_name': 'USA', 'location': 'Newark, NJ, USA', 'team_number': 1616, 'region': 'NJ', 'name': 'New Jersey-New York Port Authority & Weequahic High School', 'website': None}

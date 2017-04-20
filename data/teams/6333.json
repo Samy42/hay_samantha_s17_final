@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 6333, 'name': 'Putnam High School', 'region': 'Connecticut', 'website': None, 'key': 'frc6333', 'location': 'Putnam, Connecticut 06260, USA', 'locality': 'Putnam', 'country_name': 'USA', 'nickname': 'Scavenger Robotics', 'rookie_year': 2017}
+{'motto': None, 'locality': 'Putnam', 'key': 'frc6333', 'rookie_year': 2017, 'nickname': 'Scavenger Robotics', 'country_name': 'USA', 'location': 'Putnam, Connecticut 06260, USA', 'team_number': 6333, 'region': 'Connecticut', 'name': 'Putnam High School', 'website': None}

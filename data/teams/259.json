@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 259, 'name': 'Technology & Engineering Academy', 'region': 'CA', 'website': 'http://www.bell.k12.ca.us/BellHS/default.html', 'key': 'frc259', 'location': 'Bell, CA, USA', 'locality': 'Bell', 'country_name': 'USA', 'nickname': 'LABRATs', 'rookie_year': 1999}
+{'motto': None, 'locality': 'Bell', 'key': 'frc259', 'rookie_year': 1999, 'nickname': 'LABRATs', 'country_name': 'USA', 'location': 'Bell, CA, USA', 'team_number': 259, 'region': 'CA', 'name': 'Technology & Engineering Academy', 'website': 'http://www.bell.k12.ca.us/BellHS/default.html'}

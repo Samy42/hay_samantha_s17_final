@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 1530, 'name': 'Thomas Jefferson', 'region': 'VA', 'website': None, 'key': 'frc1530', 'location': 'Richmond, VA, USA', 'locality': 'Richmond', 'country_name': 'USA', 'nickname': 'Vikings', 'rookie_year': 2005}
+{'motto': None, 'locality': 'Richmond', 'key': 'frc1530', 'rookie_year': 2005, 'nickname': 'Vikings', 'country_name': 'USA', 'location': 'Richmond, VA, USA', 'team_number': 1530, 'region': 'VA', 'name': 'Thomas Jefferson', 'website': None}

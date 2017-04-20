@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 6553, 'name': 'Rio Mesa High', 'region': 'California', 'website': None, 'key': 'frc6553', 'location': 'Oxnard, California 93036, USA', 'locality': 'Oxnard', 'country_name': 'USA', 'nickname': 'Roboticus', 'rookie_year': 2017}
+{'motto': None, 'locality': 'Oxnard', 'key': 'frc6553', 'rookie_year': 2017, 'nickname': 'Roboticus', 'country_name': 'USA', 'location': 'Oxnard, California 93036, USA', 'team_number': 6553, 'region': 'California', 'name': 'Rio Mesa High', 'website': None}

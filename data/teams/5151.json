@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 5151, 'name': 'JANE ADDAMS HIGH SCHOOL FOR ACADEMIC CAREERS', 'region': 'New York', 'website': None, 'key': 'frc5151', 'location': 'bronx, New York, USA', 'locality': 'bronx', 'country_name': 'USA', 'nickname': 'RoboTitans', 'rookie_year': 2014}
+{'motto': None, 'locality': 'bronx', 'key': 'frc5151', 'rookie_year': 2014, 'nickname': 'RoboTitans', 'country_name': 'USA', 'location': 'bronx, New York, USA', 'team_number': 5151, 'region': 'New York', 'name': 'JANE ADDAMS HIGH SCHOOL FOR ACADEMIC CAREERS', 'website': None}

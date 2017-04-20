@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 373, 'name': 'Locust Valley High School', 'region': 'NY', 'website': None, 'key': 'frc373', 'location': 'Locust Valley, NY, USA', 'locality': 'Locust Valley', 'country_name': 'USA', 'nickname': 'Falcons', 'rookie_year': 2000}
+{'motto': None, 'locality': 'Locust Valley', 'key': 'frc373', 'rookie_year': 2000, 'nickname': 'Falcons', 'country_name': 'USA', 'location': 'Locust Valley, NY, USA', 'team_number': 373, 'region': 'NY', 'name': 'Locust Valley High School', 'website': None}

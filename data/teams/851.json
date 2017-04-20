@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 851, 'name': 'JT Academy', 'region': 'CA', 'website': 'http://www.JTAcademy.org', 'key': 'frc851', 'location': 'Torrance, CA, USA', 'locality': 'Torrance', 'country_name': 'USA', 'nickname': 'Froggers', 'rookie_year': 2002}
+{'motto': None, 'locality': 'Torrance', 'key': 'frc851', 'rookie_year': 2002, 'nickname': 'Froggers', 'country_name': 'USA', 'location': 'Torrance, CA, USA', 'team_number': 851, 'region': 'CA', 'name': 'JT Academy', 'website': 'http://www.JTAcademy.org'}

@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 22, 'name': 'Chatsworth High School', 'region': 'CA', 'website': 'http://www.team22.org', 'key': 'frc22', 'location': 'Chatsworth, CA, USA', 'locality': 'Chatsworth', 'country_name': 'USA', 'nickname': 'Double Deuce', 'rookie_year': 1997}
+{'motto': None, 'locality': 'Chatsworth', 'key': 'frc22', 'rookie_year': 1997, 'nickname': 'Double Deuce', 'country_name': 'USA', 'location': 'Chatsworth, CA, USA', 'team_number': 22, 'region': 'CA', 'name': 'Chatsworth High School', 'website': 'http://www.team22.org'}

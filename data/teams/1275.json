@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 1275, 'name': 'Havergal College', 'region': 'ON', 'website': 'http://www.havergalrobotics.on.ca', 'key': 'frc1275', 'location': 'Toronto, ON, Canada', 'locality': 'Toronto', 'country_name': 'Canada', 'nickname': 'Pi-Robots', 'rookie_year': 2004}
+{'motto': None, 'locality': 'Toronto', 'key': 'frc1275', 'rookie_year': 2004, 'nickname': 'Pi-Robots', 'country_name': 'Canada', 'location': 'Toronto, ON, Canada', 'team_number': 1275, 'region': 'ON', 'name': 'Havergal College', 'website': 'http://www.havergalrobotics.on.ca'}

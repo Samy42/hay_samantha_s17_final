@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 4326, 'name': 'SRT & Rothberg', 'region': 'M', 'website': 'http://www.4326.comule.com', 'key': 'frc4326', 'location': 'Ramat Hasharon, M, Israel', 'locality': 'Ramat Hasharon', 'country_name': 'Israel', 'nickname': 'Team Rocket', 'rookie_year': 2012}
+{'motto': None, 'locality': 'Ramat Hasharon', 'key': 'frc4326', 'rookie_year': 2012, 'nickname': 'Team Rocket', 'country_name': 'Israel', 'location': 'Ramat Hasharon, M, Israel', 'team_number': 4326, 'region': 'M', 'name': 'SRT & Rothberg', 'website': 'http://www.4326.comule.com'}

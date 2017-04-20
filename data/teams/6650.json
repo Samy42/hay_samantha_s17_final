@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 6650, 'name': 'Fresno High', 'region': 'California', 'website': None, 'key': 'frc6650', 'location': 'Fresno, California 93704, USA', 'locality': 'Fresno', 'country_name': 'USA', 'nickname': 'Tribebots', 'rookie_year': 2017}
+{'motto': None, 'locality': 'Fresno', 'key': 'frc6650', 'rookie_year': 2017, 'nickname': 'Tribebots', 'country_name': 'USA', 'location': 'Fresno, California 93704, USA', 'team_number': 6650, 'region': 'California', 'name': 'Fresno High', 'website': None}

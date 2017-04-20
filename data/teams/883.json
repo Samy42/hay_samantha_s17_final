@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 883, 'name': 'Cleveland Central Catholic High School', 'region': 'OH', 'website': 'http://centralcatholichs.org', 'key': 'frc883', 'location': 'Cleveland, OH, USA', 'locality': 'Cleveland', 'country_name': 'USA', 'nickname': 'Ironmen', 'rookie_year': 2002}
+{'motto': None, 'locality': 'Cleveland', 'key': 'frc883', 'rookie_year': 2002, 'nickname': 'Ironmen', 'country_name': 'USA', 'location': 'Cleveland, OH, USA', 'team_number': 883, 'region': 'OH', 'name': 'Cleveland Central Catholic High School', 'website': 'http://centralcatholichs.org'}

@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 1906, 'name': 'NASA & Roy High School', 'region': 'UT', 'website': 'http://weberoybotics.org', 'key': 'frc1906', 'location': 'Roy, UT, USA', 'locality': 'Roy', 'country_name': 'USA', 'nickname': 'WeBeRoyBotics', 'rookie_year': 2006}
+{'motto': None, 'locality': 'Roy', 'key': 'frc1906', 'rookie_year': 2006, 'nickname': 'WeBeRoyBotics', 'country_name': 'USA', 'location': 'Roy, UT, USA', 'team_number': 1906, 'region': 'UT', 'name': 'NASA & Roy High School', 'website': 'http://weberoybotics.org'}

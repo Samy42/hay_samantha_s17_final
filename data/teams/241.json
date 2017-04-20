@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 241, 'name': 'BAE Systems & Pinkerton Academy', 'region': 'NH', 'website': 'http://www.team241.org', 'key': 'frc241', 'location': 'Derry, NH, USA', 'locality': 'Derry', 'country_name': 'USA', 'nickname': 'Astros', 'rookie_year': 1999}
+{'motto': None, 'locality': 'Derry', 'key': 'frc241', 'rookie_year': 1999, 'nickname': 'Astros', 'country_name': 'USA', 'location': 'Derry, NH, USA', 'team_number': 241, 'region': 'NH', 'name': 'BAE Systems & Pinkerton Academy', 'website': 'http://www.team241.org'}

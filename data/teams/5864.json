@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 5864, 'name': 'Port Allen High School', 'region': 'Louisiana', 'website': 'Coming Soon', 'key': 'frc5864', 'location': 'Port Allen, Louisiana 70767, USA', 'locality': 'Port Allen', 'country_name': 'USA', 'nickname': 'Robo-Pelicans', 'rookie_year': 2016}
+{'motto': None, 'locality': 'Port Allen', 'key': 'frc5864', 'rookie_year': 2016, 'nickname': 'Robo-Pelicans', 'country_name': 'USA', 'location': 'Port Allen, Louisiana 70767, USA', 'team_number': 5864, 'region': 'Louisiana', 'name': 'Port Allen High School', 'website': 'Coming Soon'}

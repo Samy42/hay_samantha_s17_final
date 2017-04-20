@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 6644, 'name': 'Rocklin High', 'region': 'California', 'website': None, 'key': 'frc6644', 'location': 'Rocklin, California 95765, USA', 'locality': 'Rocklin', 'country_name': 'USA', 'nickname': 'Atomic Automatons', 'rookie_year': 2017}
+{'motto': None, 'locality': 'Rocklin', 'key': 'frc6644', 'rookie_year': 2017, 'nickname': 'Atomic Automatons', 'country_name': 'USA', 'location': 'Rocklin, California 95765, USA', 'team_number': 6644, 'region': 'California', 'name': 'Rocklin High', 'website': None}

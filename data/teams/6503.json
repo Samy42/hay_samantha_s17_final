@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 6503, 'name': 'Seattle World School', 'region': 'Washington', 'website': None, 'key': 'frc6503', 'location': 'Seattle, Washington 98122, USA', 'locality': 'Seattle', 'country_name': 'USA', 'nickname': 'Iron Dragon', 'rookie_year': 2017}
+{'motto': None, 'locality': 'Seattle', 'key': 'frc6503', 'rookie_year': 2017, 'nickname': 'Iron Dragon', 'country_name': 'USA', 'location': 'Seattle, Washington 98122, USA', 'team_number': 6503, 'region': 'Washington', 'name': 'Seattle World School', 'website': None}

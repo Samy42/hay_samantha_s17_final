@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 1435, 'name': 'Pattonville High School', 'region': 'MO', 'website': 'http://phs.psdr3.org', 'key': 'frc1435', 'location': 'Maryland Heights, MO, USA', 'locality': 'Maryland Heights', 'country_name': 'USA', 'nickname': 'The pi-Rats', 'rookie_year': 2004}
+{'motto': None, 'locality': 'Maryland Heights', 'key': 'frc1435', 'rookie_year': 2004, 'nickname': 'The pi-Rats', 'country_name': 'USA', 'location': 'Maryland Heights, MO, USA', 'team_number': 1435, 'region': 'MO', 'name': 'Pattonville High School', 'website': 'http://phs.psdr3.org'}

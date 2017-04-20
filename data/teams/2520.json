@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 2520, 'name': 'Valley High School', 'region': 'NV', 'website': 'http://www.robotics9000net', 'key': 'frc2520', 'location': 'Las Vegas, NV, USA', 'locality': 'Las Vegas', 'country_name': 'USA', 'nickname': 'Robotics 9000', 'rookie_year': 2008}
+{'motto': None, 'locality': 'Las Vegas', 'key': 'frc2520', 'rookie_year': 2008, 'nickname': 'Robotics 9000', 'country_name': 'USA', 'location': 'Las Vegas, NV, USA', 'team_number': 2520, 'region': 'NV', 'name': 'Valley High School', 'website': 'http://www.robotics9000net'}

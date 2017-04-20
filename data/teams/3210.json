@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 3210, 'name': 'Liberty High School', 'region': 'OR', 'website': 'http://libertyrobotics.weebly.com', 'key': 'frc3210', 'location': 'Hillsboro, OR, USA', 'locality': 'Hillsboro', 'country_name': 'USA', 'nickname': 'Falcons', 'rookie_year': None}
+{'motto': None, 'locality': 'Hillsboro', 'key': 'frc3210', 'rookie_year': None, 'nickname': 'Falcons', 'country_name': 'USA', 'location': 'Hillsboro, OR, USA', 'team_number': 3210, 'region': 'OR', 'name': 'Liberty High School', 'website': 'http://libertyrobotics.weebly.com'}

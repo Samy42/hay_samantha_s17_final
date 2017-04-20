@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 6543, 'name': 'Pinnacle Academy', 'region': 'Virginia', 'website': None, 'key': 'frc6543', 'location': 'Oakton, Virginia 22124, USA', 'locality': 'Oakton', 'country_name': 'USA', 'nickname': 'pumaTECH', 'rookie_year': 2017}
+{'motto': None, 'locality': 'Oakton', 'key': 'frc6543', 'rookie_year': 2017, 'nickname': 'pumaTECH', 'country_name': 'USA', 'location': 'Oakton, Virginia 22124, USA', 'team_number': 6543, 'region': 'Virginia', 'name': 'Pinnacle Academy', 'website': None}

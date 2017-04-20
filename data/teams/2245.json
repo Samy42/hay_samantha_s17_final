@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 2245, 'name': 'Frankfort High School', 'region': 'MI', 'website': 'http://frankfort.k12.mi.us', 'key': 'frc2245', 'location': 'Frankfort, MI, USA', 'locality': 'Frankfort', 'country_name': 'USA', 'nickname': 'PANTHERS', 'rookie_year': 2007}
+{'motto': None, 'locality': 'Frankfort', 'key': 'frc2245', 'rookie_year': 2007, 'nickname': 'PANTHERS', 'country_name': 'USA', 'location': 'Frankfort, MI, USA', 'team_number': 2245, 'region': 'MI', 'name': 'Frankfort High School', 'website': 'http://frankfort.k12.mi.us'}

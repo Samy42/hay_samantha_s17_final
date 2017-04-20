@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 345, 'name': 'Ford &  NORSTAR', 'region': 'VA', 'website': None, 'key': 'frc345', 'location': 'Norfolk, VA, USA', 'locality': 'Norfolk', 'country_name': 'USA', 'nickname': 'NORSTAR', 'rookie_year': 2000}
+{'motto': None, 'locality': 'Norfolk', 'key': 'frc345', 'rookie_year': 2000, 'nickname': 'NORSTAR', 'country_name': 'USA', 'location': 'Norfolk, VA, USA', 'team_number': 345, 'region': 'VA', 'name': 'Ford &  NORSTAR', 'website': None}

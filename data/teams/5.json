@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 5, 'name': 'Ford FIRST Robotics & Melvindale High School', 'region': 'MI', 'website': 'http://www.robocards.org', 'key': 'frc5', 'location': 'Melvindale, MI, USA', 'locality': 'Melvindale', 'country_name': 'USA', 'nickname': 'Robocards', 'rookie_year': 1998}
+{'motto': None, 'locality': 'Melvindale', 'key': 'frc5', 'rookie_year': 1998, 'nickname': 'Robocards', 'country_name': 'USA', 'location': 'Melvindale, MI, USA', 'team_number': 5, 'region': 'MI', 'name': 'Ford FIRST Robotics & Melvindale High School', 'website': 'http://www.robocards.org'}

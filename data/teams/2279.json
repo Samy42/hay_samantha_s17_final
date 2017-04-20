@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 2279, 'name': 'Butler County Area Vo-Tech School', 'region': 'PA', 'website': 'http://Bcvt.tec.pa.us', 'key': 'frc2279', 'location': 'Butler, PA, USA', 'locality': 'Butler', 'country_name': 'USA', 'nickname': 'The Butlers', 'rookie_year': 2007}
+{'motto': None, 'locality': 'Butler', 'key': 'frc2279', 'rookie_year': 2007, 'nickname': 'The Butlers', 'country_name': 'USA', 'location': 'Butler, PA, USA', 'team_number': 2279, 'region': 'PA', 'name': 'Butler County Area Vo-Tech School', 'website': 'http://Bcvt.tec.pa.us'}

@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 5806, 'name': 'Horace Mann School', 'region': 'New York', 'website': 'http://www.frc5806.org', 'key': 'frc5806', 'location': 'Bronx, New York 10471, USA', 'locality': 'Bronx', 'country_name': 'USA', 'nickname': 'Horace Mann School', 'rookie_year': 2016}
+{'motto': None, 'locality': 'Bronx', 'key': 'frc5806', 'rookie_year': 2016, 'nickname': 'Horace Mann School', 'country_name': 'USA', 'location': 'Bronx, New York 10471, USA', 'team_number': 5806, 'region': 'New York', 'name': 'Horace Mann School', 'website': 'http://www.frc5806.org'}

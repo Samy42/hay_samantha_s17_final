@@ -1,1 +1,1 @@
-{'motto': None, 'team_number': 880, 'name': 'Fairmount Public School', 'region': 'ND', 'website': 'http://www.fairmount.k12.nd.us', 'key': 'frc880', 'location': 'Fairmount, ND, USA', 'locality': 'Fairmount', 'country_name': 'USA', 'nickname': 'Border Patrol', 'rookie_year': 2002}
+{'motto': None, 'locality': 'Fairmount', 'key': 'frc880', 'rookie_year': 2002, 'nickname': 'Border Patrol', 'country_name': 'USA', 'location': 'Fairmount, ND, USA', 'team_number': 880, 'region': 'ND', 'name': 'Fairmount Public School', 'website': 'http://www.fairmount.k12.nd.us'}
